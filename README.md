@@ -17,4 +17,6 @@ Each training and test example is assigned to one of the following labels:
 8. Bag
 9. Ankle boot
 
-To run the code, download the script and use `python3 run --random_forest`. Here you can add any classifier in `model_dispatcher.py` dictionary like `decision_tree_entropy` etc.  
+To run the code, download the script and use `python3 run --random_forest`. Here you can add any classifier in `model_dispatcher.py` dictionary like `decision_tree_entropy` etc. 
+
+The fashion mnist dataset is available [here](https://www.kaggle.com/zalando-research/fashionmnist)
