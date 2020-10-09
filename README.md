@@ -20,3 +20,7 @@ Each training and test example is assigned to one of the following labels:
 To run the code, download the script and use `python3 run --random_forest`. Here you can add any classifier in `model_dispatcher.py` dictionary like `decision_tree_entropy` etc. 
 
 The fashion mnist dataset is available [here](https://www.kaggle.com/zalando-research/fashionmnist)
+
+
+ 
+![alt text]( https://4.bp.blogspot.com/-OQZGt_5WqDo/Wa_Dfa4U15I/AAAAAAAAAUI/veRmAmUUKFA19dVw6XCOV2YLO6n-y_omwCLcBGAs/s1600/out.jpg "FASHION MNIST")
